@@ -11,4 +11,3 @@
         public int AccountType;
     }
 }
-ё
